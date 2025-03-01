@@ -8,8 +8,8 @@ Computational Geometry: Algorithms and Applications, Third Edition by de Berg, C
 pages 25 - 27
 
 This script accepts a list lines in form of tuples of two dimensional cartesian points,
-which are given as tuples,
-i.e. [((6, 1), (6, 4.5)), ((1.5, 1.5), (9, 9)), ((1, 10), (10, 1)), ((3, 1.9), (2, 1)), ((1, 3), (3, 1))]
+which are given as tuples i.e. \
+[((6, 1), (6, 4.5)), ((1.5, 1.5), (9, 9)), ((1, 10), (10, 1)), ((3, 1.9), (2, 1)), ((1, 3), (3, 1))]
 
 The script contains classes to Represent Points, Lines and the Sweepline in addition to the class containing
 the methods for the calculations.
